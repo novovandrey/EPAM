@@ -1,0 +1,6 @@
+c:\users\andrey.novov\documents\visual studio 2015\Projects\task_1\task_1\obj\Debug\task_1.csprojResolveAssemblyReference.cache
+C:\Users\Andrey.Novov\Documents\Visual Studio 2015\Projects\task_1\task_1\bin\Debug\task_1.pdb
+C:\Users\Andrey.Novov\Documents\Visual Studio 2015\Projects\task_1\task_1\obj\Debug\task_1.pdb
+C:\Users\Andrey.Novov\Documents\Visual Studio 2015\Projects\task_1\task_1\bin\Debug\task_1.dll.config
+C:\Users\Andrey.Novov\Documents\Visual Studio 2015\Projects\task_1\task_1\bin\Debug\task_1.dll
+C:\Users\Andrey.Novov\Documents\Visual Studio 2015\Projects\task_1\task_1\obj\Debug\task_1.dll
